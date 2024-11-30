@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+opencv-python-headless
+pillow
+python-multipart
+scikit-learn
+mahotas
+onnxruntime
+gunicorn
